@@ -17,9 +17,9 @@ You will need the following in your system:
 
 *may also work with older versions*
 
-**Notice:**
-pygame seems to work with 32bit python.
-So people using built-in 64bit python on **Mac** may need to check pygame site for how to handle this.  
+**Notice:**  
+Pygame seems to work only with 32bit python.
+So people using built-in 64bit python on **Mac** may need to check Pygame site for how to handle this.  
 My own experience is to simply download and install a new 32bit python on Mac.  
 
 How to play?
@@ -41,4 +41,4 @@ If you still have problems or just don't want to install those mentioned require
 drop me a message at [my Email](schan.huang@gmail.com), I would try to pack you a(n) .exe/.dmg file.  
 I also welcome any advices or ideas.  
 
-Enjoy it!
+Hope you enjoy it!
