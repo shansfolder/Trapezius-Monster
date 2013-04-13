@@ -38,7 +38,7 @@ You know how to do it.
 Contact me
 -------------------
 If you still have problems or just don't want to install those mentioned requirements,  
-drop me a message at [my Email](schan.huang@gmail.com), I would try to pack you a(n) .exe/.dmg file.  
+drop me a message at schan.huang@gmail.com, I would try to pack you a(n) .exe/.dmg file.  
 I also welcome any advices or ideas.  
 
 Hope you enjoy it!
