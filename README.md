@@ -32,7 +32,7 @@ The simplest way is to
     cd diretory\where\you\unzip\into    
     python trapezius_2.0.py
 
-Offcourse, you can use *git clone* command on Linux/Mac to replace step one.
+Offcourse, you can use **git clone** command on Linux/Mac instead.
 You know how to do it.
 
 Contact me
