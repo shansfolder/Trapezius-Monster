@@ -2,6 +2,7 @@ Trapezius-Monster
 =================
 
 
+  
 A little game (in Chinese) that I develop to makes jokes of RenZhong. 
 
 I've made several changes from the previous version.  
@@ -10,7 +11,7 @@ But you can change the source code as you want. I just write it for fun.
 
 Requirements?
 -----------------------
-You need the following in your system:
+You will need the following in your system:
 * python 2.7
 * pygame 1.9  
 
