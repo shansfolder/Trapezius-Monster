@@ -12,6 +12,7 @@ Requirements?
 You need the following in your system:
 * python 2.7
 * pygame 1.9  
+
 *may also work with older versions*
 
 Notice:
@@ -25,8 +26,8 @@ The simplest way is to
 1.  Download the archive, unzip it into any directory you want.  
 2.  Open a terminal on your computer  
 3.  Type in  
-    cd diretory\where\you\unzip\into
-    python trapezius_2.0.py
+        cd diretory\where\you\unzip\into    
+        python trapezius_2.0.py
 
 Ofcourse, you can use *git clone* command on Linux/Mac to replace step one.
 You know how to do it.
@@ -34,7 +35,7 @@ You know how to do it.
 Still got problems?
 -------------------
 If you still have problems or just don't want to install those mentioned requirements,  
-drop me a message at [my Email addresss](schan.huang@gmail.com), I would try to pack you an .exe/.dmg file.  
+drop me a message at [my Email addresss](schan.huang@gmail.com), I would try to pack you a(n) .exe/.dmg file.  
 I also welcome any advices or ideas.  
 
 Enjoy it!
