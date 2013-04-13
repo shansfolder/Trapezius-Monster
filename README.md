@@ -3,7 +3,7 @@ Trapezius-Monster
 
 
   
-A little game (in Chinese) that I develop to makes jokes of RenZhong. 
+A little game (in Chinese) that I develop to make jokes of RenZhong. 
 
 I've made several changes from the previous version.  
 This game is currently **NOT** active for further updates due to my time limitation.  
