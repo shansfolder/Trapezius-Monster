@@ -1,7 +1,8 @@
 Trapezius-Monster
 =================
 
-A little game that I develop to makes jokes of RenZhong. (in Chinese)
+
+A little game (in Chinese) that I develop to makes jokes of RenZhong. 
 
 I've made several changes from the previous version.  
 This game is currently **NOT** active for further updates due to my time limitation.  
@@ -30,7 +31,7 @@ The simplest way is to
     cd diretory\where\you\unzip\into    
     python trapezius_2.0.py
 
-Ofcourse, you can use *git clone* command on Linux/Mac to replace step one.
+Offcourse, you can use *git clone* command on Linux/Mac to replace step one.
 You know how to do it.
 
 Still got problems?
