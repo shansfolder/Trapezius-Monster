@@ -21,9 +21,9 @@ My own experience is that simply download and install a new 32bit python on Mac.
 
 How to play?
 -----------------------
-The simplest way is to
-1.  Download the archive, unzip it into any directory you want.
-2.  Open a terminal on your computer
+The simplest way is to  
+1.  Download the archive, unzip it into any directory you want.  
+2.  Open a terminal on your computer  
 3.  Type in  
     cd diretory\where\you\unzip\into
     python trapezius_2.0.py
