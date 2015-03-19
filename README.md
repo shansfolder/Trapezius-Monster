@@ -2,11 +2,10 @@ Trapezius-Monster
 =================
 
 
-  
-A little game (in Chinese) that I develop to make jokes of RenZhong. 
+A little game (in Chinese) that I develop. Just for fun.
 
 I've made several changes from the previous version.  
-This game is currently **NOT** active for further updates due to my time limitation.  
+This game is currently not active for further updates.  
 But you can change the source code as you want. I just write it for fun.  
 
 Requirements
@@ -24,21 +23,15 @@ In a nutshell, there is one command line to force MacPython run in 32bit or alte
 
 How to play?
 -----------------------
-The simplest way is to  
-1.  Download the archive, unzip it into any directory you want.  
-2.  Open a terminal on your computer  
-3.  Type in
+If you have Python installed, just run
 
-    cd diretory\where\you\unzip\into    
     python trapezius_2.0.py
 
-Offcourse, you can use **git clone** command on Linux/Mac instead.
-You know how to do it.
 
 Contact me
 -------------------
 If you still have problems or just don't want to install those mentioned requirements,  
 drop me a message at schan.huang@gmail.com, I would try to pack you a(n) .exe/.dmg file with regard to your running system.  
-I also welcome any advices or ideas.  
+
 
 Hope you enjoy it!
